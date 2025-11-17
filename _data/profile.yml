@@ -36,15 +36,14 @@ portrait_caption: >-
 
 education:
 - name: Princeton University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/princeton_logo.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
+    Department of Computer Science
+  date: Sep. 2022 - Present
 - name: Washington University in St. Louis
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/washu_logo.png
   position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Aug. 2017 - May. 2021
 
 # experience:
 # - name: Peking University
