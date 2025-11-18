@@ -39,5 +39,9 @@ navbar_title: Home
         {% if site.data.display.homepage.show_teaching %}
             {% include widgets/teaching_card.html %}
         {% endif %}
+
+        {% if site.data.display.homepage.show_work_services %}
+            {% include widgets/work_services_card.html %}
+        {% endif %}
     </div>
 </div>
