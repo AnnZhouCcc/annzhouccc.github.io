@@ -1,33 +1,27 @@
 <div class="row mt-3">
-    <div class="col">
-        <div class="card border-0 shadow-sm bg-white">
-            <div class="card-body p-4">
-                <div class="row" data-masonry='{"percentPosition": true }'>
-
-                    {% assign t = site.data.teaching %}
-                    {% if t %}
-                      <div class="col">
-                          <div class="mx-2 my-1">
-                              <h6>Teaching</h6>
-                              {% if t.items %}
-                                <ul class="list small pl-3 mb-1">
-                                    {% for c in t.items %}
-                                      <li>
-                                        {% if c.course %}<strong>{{ c.course }}</strong>{% endif %}
-                                        {% if c.role or c.term or c.note %}<br>{% endif %}
-                                        {% if c.role %}{{ c.role }}{% endif %}
-                                        {% if c.term %}{% if c.role %}, {% endif %}{{ c.term }}{% endif %}
-                                        {% if c.note %}{% if c.role or c.term %}, {% endif %}{{ c.note }}{% endif %}
-                                      </li>
-                                    {% endfor %}
-                                </ul>
-                              {% endif %}
-                          </div>
-                      </div>
-                    {% endif %}
-
-                </div>
-            </div>
-        </div>
+  <div class="col">
+    <div class="card border-0 shadow-sm bg-white">
+      <div class="card-body p-4">
+        {% assign t = site.data.teaching %}
+        {% if t %}
+          <div class="mx-2 my-1">
+            <h6>Teaching</h6>
+            {% if t.items %}
+              <ul class="list small pl-3 mb-1">
+                {% for c in t.items %}
+                  <li>
+                    {% if c.course %}<strong>{{ c.course }}</strong>{% endif %}
+                    {% if c.role or c.term or c.note %}<br>{% endif %}
+                    {% if c.role %}{{ c.role }}{% endif %}
+                    {% if c.term %}{% if c.role %}, {% endif %}{{ c.term }}{% endif %}
+                    {% if c.note %}{% if c.role or c.term %}, {% endif %}{{ c.note }}{% endif %}
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
+        {% endif %}
+      </div>
     </div>
+  </div>
 </div>
