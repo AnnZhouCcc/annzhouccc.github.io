@@ -1,6 +1,12 @@
 title: "Teaching"
 
-sections:
-  - items:
-      - "Teaching Assistant, Special Topics in Information Sciences and Systems: Security and Performance Challenges in Networked Systems, Princeton, Fall'25"
-      - "Artifact Evaluation Committee, NSDI 2025"
+items:
+  - course: "COS 461: Computer Networks"
+    role: "Teaching Assistant"
+    term: "Fall 2025"
+    note: "Princeton University"
+
+  - course: "COS 217: Introduction to Programming Systems"
+    role: "Teaching Assistant"
+    term: "Spring 2025"
+    note: "Princeton University"
