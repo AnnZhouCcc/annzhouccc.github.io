@@ -1,0 +1,13 @@
+{% assign data = site.data.work %}
+{% if data %}
+<div class="mt-4">
+  <h6 class="mb-2">{{ data.title }}</h6>
+  {% if data.items %}
+    <ul class="mb-0">
+      {% for item in data.items %}
+        <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>
+{% endif %}
