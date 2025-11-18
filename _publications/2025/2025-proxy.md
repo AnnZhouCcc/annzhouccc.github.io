@@ -6,7 +6,7 @@ pub:            "24th ACM Workshop on Hot Topics in Networks (HotNets'25)"
 # pub_date:       "2025"
 cover:          /assets/images/covers/proxy.png
 authors:
-- <strong>Anchengcheng Zhou</strong>
+- Anchengcheng Zhou
 - Carter Costic
 - Hongyu Hè
 - Ahmad Ghalayini (Microsoft)
