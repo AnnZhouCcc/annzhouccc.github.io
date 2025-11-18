@@ -1,12 +1,27 @@
 title: "Teaching"
 
 items:
-  - course: "COS 461: Computer Networks"
+  - course: "COS 226: Algorithms and Data Structures"
     role: "Teaching Assistant"
-    term: "Fall 2025"
+    term: "Fall 2024"
     note: "Princeton University"
 
-  - course: "COS 217: Introduction to Programming Systems"
+  - course: "ECE 529B: Special Topics in Information Sciences and Systems: Security and Performance Challenges in Networked Systems"
     role: "Teaching Assistant"
     term: "Spring 2025"
     note: "Princeton University"
+
+  - course: "CSE 347: Analysis of Algorithms"
+    role: "Teaching Assistant"
+    term: "Spring 2021"
+    note: "Washington University in St. Louis"
+
+  - course: "CSE 247: Data Structures and Algorithms"
+    role: "Teaching Assistant"
+    term: "Fall 2018 / Spring 2019 / Spring 2020"
+    note: "Washington University in St. Louis"
+
+  - course: "CSE 131: Introduction to Computer Science"
+    role: "Teaching Assistant"
+    term: "Spring 2018"
+    note: "Washington University in St. Louis"
