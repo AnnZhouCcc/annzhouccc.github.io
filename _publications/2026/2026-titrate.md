@@ -6,7 +6,7 @@ pub:            "23rd USENIX Symposium on Networked Systems Design and Implement
 # pub_date:       "2026"
 cover:          /assets/images/covers/titrate.png
 authors:
-- Anchengcheng Zhou
+- <strong>Anchengcheng Zhou</strong>
 - Joshua Lau
 - P. Brighten Godfrey (UIUC and Broadcom)
 - Maria Apostolaki
