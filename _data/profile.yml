@@ -5,7 +5,7 @@ navbar_name: "Anchengcheng Zhou"
 positions:
 - name: PhD Student
 - name: Princeton University
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  # logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "ann.zhou@princeton.edu"
@@ -23,11 +23,11 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a PhD student in Computer Science from Princeton University, advised by <a href="https://netsyn.princeton.edu/people/maria-apostolaki" target="_blank">Maria Apostolaki</a>. 
+    I am broadly interested in networks and systems, including their intersections with machine learning.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Before Princeton, I was fortunate to work with <a href="https://pbg.cs.illinois.edu/" target="_blank">P. Brighten Godfrey</a> from UIUC. 
+    I received my Bachelor of Science in Computer Science from Washington University in St. Louis, where I was fortunate to work with <a href="https://engineering.washu.edu/faculty/Kunal-Agrawal.html" target="_blank">Kunal Agrawal</a> and <a href="https://www.cse.wustl.edu/~angelee/home_page/" target="_blank">Angelina Lee</a>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
