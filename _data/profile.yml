@@ -32,7 +32,7 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/blackfooted_cat.jpg
 portrait_caption: >-
-  A placeholder photo (by Manja Vitolic on Unsplash) before I find the right photo for myself.
+  A placeholder photo (<a href="https://www.smithsonianmag.com/smart-news/petite-cat-worlds-deadliest-killing-more-prey-single-night-leopard-does-six-months-180970695/" target="_blank">image source</a>) before I find the right portrait photo of myself.
 
 education:
 - name: Princeton University
@@ -52,7 +52,7 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Gordon Wu Fellowship
+- name: Gordon Wu Fellowship, Princeton University
   date: 2022 - 2027
-- name: Valedictorian
+- name: Valedictorian, Washington University in St. Louis
   date: 2021
