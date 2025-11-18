@@ -7,7 +7,7 @@ pub:            "SIAM Symposium on Algorithm Engineering and Experiments (ALENEX
 # cover:          /assets/images/covers/xx.png
 authors:
 - Yifan Xu
-- Anchengcheng Zhou
+- <strong>Anchengcheng Zhou</strong>
 - Grace Q. Yin (MIT)
 - Kunal Agrawal
 - I-Ting Angelina Lee
