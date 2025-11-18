@@ -1,0 +1,19 @@
+{% assign t = site.data.teaching %}
+{% if t %}
+<div class="mt-4">
+  <h6 class="mb-2">{{ t.title }}</h6>
+  {% if t.items %}
+    <ul class="mb-0">
+      {% for c in t.items %}
+        <li>
+          {% if c.course %}<strong>{{ c.course }}</strong>{% endif %}
+          {% if c.role or c.term or c.note %}<br>{% endif %}
+          {% if c.role %}{{ c.role }}{% endif %}
+          {% if c.term %}{% if c.role %}, {% endif %}{{ c.term }}{% endif %}
+          {% if c.note %}{% if c.role or c.term %}, {% endif %}{{ c.note }}{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>
+{% endif %}
