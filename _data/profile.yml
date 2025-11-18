@@ -33,8 +33,9 @@ short_bio: >-
 portrait_url: /assets/images/photos/blackfooted_cat.jpg
 portrait_caption: >-
   A placeholder photo before I find the right portrait photo of myself.
-  # ("https://www.smithsonianmag.com/smart-news/petite-cat-worlds-deadliest-killing-more-prey-single-night-leopard-does-six-months-180970695/")
+# https://www.smithsonianmag.com/smart-news/petite-cat-worlds-deadliest-killing-more-prey-single-night-leopard-does-six-months-180970695/
 
+  
 education:
 - name: Princeton University
   logo: /assets/images/badges/princeton_logo.svg
