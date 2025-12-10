@@ -9,7 +9,7 @@ authors:
 - Anchengcheng Zhou
 - Vipul Harsh (Conviva)
 - Sangeetha Abdu Jyothi (University of California, Irvine)
-- - Maria Apostolaki
+- Maria Apostolaki
 - P. Brighten Godfrey (UIUC and Broadcom)
 links:
   Paper: N.A.
